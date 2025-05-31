@@ -3,7 +3,6 @@ using ProcessControl.Controllers;
 
 namespace ProcessControl.Adapters;
 
-/// <summary>Адаптирует VendorBController к интерфейсу IController.</summary>
 public class VendorBAdapter : IController
 {
     private readonly VendorBController _ctrl = new();
