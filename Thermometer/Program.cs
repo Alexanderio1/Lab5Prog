@@ -2,7 +2,7 @@
 using Core;
 using Adapters;
 
-namespace AdapterLab.Thermometer
+namespace Thermometer
 {
     internal class Program
     {
